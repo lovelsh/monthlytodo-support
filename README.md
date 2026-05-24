@@ -3,7 +3,7 @@
 Welcome! This is the support page for **Monthly Todo** (월간일정), a lightweight, month-focused task manager for iPhone.
 
 - 🇰🇷 한국어 안내는 아래 [한국어](#한국어) 섹션을 참고하세요.
-- 🐛 Bug reports / feature requests / questions → please open an [Issue](../../issues/new).
+- 🐛 Bug reports / feature requests / questions → please open an [Issue](https://github.com/lovelsh/monthlytodo-support/issues/new).
 - 🔒 Privacy Policy: [privacy.md](./privacy.md)
 - ❓ Frequently Asked Questions: [support.md](./support.md)
 
@@ -15,7 +15,7 @@ This repository powers the **Support URL** and **Privacy Policy URL** that App S
 
 ### Quick Links
 - App Store: _(updated after release)_
-- Open an Issue: [../../issues/new](../../issues/new)
+- Open an Issue: [github.com/lovelsh/monthlytodo-support/issues/new](https://github.com/lovelsh/monthlytodo-support/issues/new)
 - Privacy Policy: [privacy.md](./privacy.md)
 - Support FAQ: [support.md](./support.md)
 
@@ -31,7 +31,7 @@ The fastest way to reach us is by opening an Issue using the link above. Issues 
 
 ### 빠른 링크
 - 앱스토어: _(출시 후 업데이트)_
-- 문의·제안 남기기: [../../issues/new](../../issues/new)
+- 문의·제안 남기기: [github.com/lovelsh/monthlytodo-support/issues/new](https://github.com/lovelsh/monthlytodo-support/issues/new)
 - 개인정보 처리방침: [privacy.md](./privacy.md)
 - 자주 묻는 질문(FAQ): [support.md](./support.md)
 

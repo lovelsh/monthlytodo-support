@@ -1,6 +1,6 @@
 # Monthly Todo — Support / 자주 묻는 질문
 
-- 🐛 [Open an Issue / 문의 남기기](../../issues/new)
+- 🐛 [Open an Issue / 문의 남기기](https://github.com/lovelsh/monthlytodo-support/issues/new)
 - 🔒 [Privacy Policy / 개인정보 처리방침](./privacy.md)
 
 ---
@@ -44,7 +44,7 @@
 - If you used iCloud sync, you can additionally delete iCloud-backed data via **iOS Settings → Apple ID → iCloud → Manage Storage → Monthly Todo**.
 
 ### Still stuck?
-Please [open an Issue](../../issues/new) with:
+Please [open an Issue](https://github.com/lovelsh/monthlytodo-support/issues/new) with:
 - iOS version
 - Device model
 - A short description of what you did and what you expected
@@ -91,7 +91,7 @@ Please [open an Issue](../../issues/new) with:
 - iCloud 동기화를 사용한 경우 **iOS 설정 → Apple ID → iCloud → 저장공간 관리 → 월간일정**에서 별도로 삭제할 수 있습니다.
 
 ### 그래도 해결되지 않는다면
-[Issue 남기기](../../issues/new) 에서 아래 정보를 알려주세요.
+[Issue 남기기](https://github.com/lovelsh/monthlytodo-support/issues/new) 에서 아래 정보를 알려주세요.
 - iOS 버전
 - 기기 모델명
 - 어떤 동작에서 어떤 결과가 나왔는지 짧은 설명
