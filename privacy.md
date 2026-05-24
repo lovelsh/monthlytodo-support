@@ -1,7 +1,6 @@
 # 개인정보 처리방침 / Privacy Policy
 
-> 본 초안은 그대로 GitHub Pages, Notion, 개인 도메인 등에 게시한 후 해당 URL을 App Store Connect의 "Privacy Policy URL"에 입력하세요.
-> 사업자 정보, 연락처, 시행일은 사용자가 직접 채워야 합니다. **`[CONFIRM]`** 표시 위치를 참고하세요.
+> 2026-05-24 SeungHee. Lee 값으로 확정. GitHub Pages (https://lovelsh.github.io/monthlytodo-support/privacy) 에서 공개 호스팅 중. App Store Connect 의 "Privacy Policy URL" 에 위 URL 입력.
 
 ---
 
@@ -9,11 +8,11 @@
 
 ### 개인정보 처리방침
 
-**시행일**: **`[CONFIRM]`** (예: 2026-05-24)
+**시행일**: 2026-05-24
 
-**서비스 명**: 월간일정 (Monthly Todo)
+**서비스 명**: 월간일정 (MonthlyTodo)
 
-**개발자 / 운영자**: **`[CONFIRM]`** (이름 또는 사업자명)
+**개발자 / 운영자**: SeungHee. Lee
 
 월간일정(이하 "본 앱")은 이용자의 개인정보를 매우 중요하게 생각하며, 다음과 같이 처리합니다.
 
@@ -52,7 +51,9 @@
 이용자는 앱 내 기능을 통해 언제든 데이터를 직접 조회·수정·삭제할 수 있습니다. JSON 백업/복원 기능(§4)을 통해 데이터를 본인의 저장소로 내보낼 수 있습니다.
 
 #### 10. 개인정보 보호 책임자 / 문의처
-**`[CONFIRM]`** — 이메일 주소 또는 GitHub Issues URL 기입.
+- 책임자: SeungHee. Lee
+- 이메일: lovelsh.support@gmail.com
+- 또는 GitHub Issues: https://github.com/lovelsh/monthlytodo-support/issues
 
 #### 11. 변경 고지
 본 방침이 변경될 경우 앱 업데이트와 본 페이지를 통해 사전 공지합니다.
@@ -63,11 +64,11 @@
 
 ### Privacy Policy
 
-**Effective date**: **`[CONFIRM]`** (e.g., 2026-05-24)
+**Effective date**: 2026-05-24
 
-**Service name**: Monthly Todo
+**Service name**: MonthlyTodo (월간일정)
 
-**Developer / Operator**: **`[CONFIRM]`** (legal name or business name)
+**Developer / Operator**: SeungHee. Lee
 
 Monthly Todo (the "App") respects your privacy. This policy explains what data the App handles and how.
 
@@ -106,7 +107,9 @@ Because all data is stored on your device, removing the App deletes it. If you u
 You can view, edit, and delete your data at any time within the App. You can export your data with the JSON backup feature (§4).
 
 #### 10. Contact
-**`[CONFIRM]`** — provide an email address or GitHub Issues URL.
+- Responsible person: SeungHee. Lee
+- Email: lovelsh.support@gmail.com
+- Or GitHub Issues: https://github.com/lovelsh/monthlytodo-support/issues
 
 #### 11. Changes to This Policy
 Any changes will be communicated through app updates and this page.

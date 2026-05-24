@@ -1,6 +1,6 @@
-# Monthly Todo — Support
+# MonthlyTodo — Support
 
-Welcome! This is the support page for **Monthly Todo** (월간일정), a lightweight, month-focused task manager for iPhone.
+Welcome! This is the support page for **MonthlyTodo** (월간일정), a lightweight, month-focused task manager for iPhone.
 
 - 🇰🇷 한국어 안내는 아래 [한국어](#한국어) 섹션을 참고하세요.
 - 🐛 Bug reports / feature requests / questions → please open an [Issue](https://github.com/lovelsh/monthlytodo-support/issues/new).
@@ -20,7 +20,7 @@ This repository powers the **Support URL** and **Privacy Policy URL** that App S
 - Support FAQ: [support.md](./support.md)
 
 ### About the App
-Monthly Todo helps you organize the goals and tasks of every month at a glance. Group tasks by category, view them on a home screen widget, and roll forward unfinished items from the previous month.
+MonthlyTodo helps you organize the goals and tasks of every month at a glance. Group tasks by category, view them on a home screen widget, and roll forward unfinished items from the previous month.
 
 ### Contact
 The fastest way to reach us is by opening an Issue using the link above. Issues are public; please do not include personal information.

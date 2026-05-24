@@ -1,4 +1,4 @@
-# Monthly Todo — Support / 자주 묻는 질문
+# MonthlyTodo — Support / 자주 묻는 질문
 
 - 🐛 [Open an Issue / 문의 남기기](https://github.com/lovelsh/monthlytodo-support/issues/new)
 - 🔒 [Privacy Policy / 개인정보 처리방침](./privacy.md)
@@ -12,7 +12,7 @@
 #### Q. How does the JSON backup / restore work?
 - **Premium feature.** Open **Settings → Premium → Backup** to export. iOS shows the Files sheet so you can save the JSON file anywhere you choose (On My iPhone, iCloud Drive, Dropbox, Google Drive, etc.).
 - To restore, open **Settings → Premium → Restore**, pick the previously saved JSON file, and confirm.
-- The file is parsed entirely on-device. The Monthly Todo developer cannot read your backup file.
+- The file is parsed entirely on-device. The MonthlyTodo developer cannot read your backup file.
 - You manage the backup file yourself — uninstalling the app does not delete it from external storage.
 
 #### Q. The home-screen widget is not refreshing. What should I do?
@@ -34,14 +34,14 @@
 - From the month view toolbar, tap **Import from previous month** (the down-arrow document icon). Unfinished items from the immediately previous month will be copied into the current month with their group and styling preserved.
 
 #### Q. Can I sync between iPhone and iPad?
-- Yes — the app uses Apple's iCloud (CloudKit Private Database). Make sure iCloud is signed in on both devices and that the Monthly Todo app is enabled in **Settings → Apple ID → iCloud**.
+- Yes — the app uses Apple's iCloud (CloudKit Private Database). Make sure iCloud is signed in on both devices and that the MonthlyTodo app is enabled in **Settings → Apple ID → iCloud**.
 
 #### Q. I bought Premium on a new device — how do I restore the purchase?
 - Open **Settings → Premium** and tap **Restore Purchases**. Make sure you are signed in to the same Apple ID that originally bought Premium.
 
 #### Q. How do I delete all my data?
 - Inside the app: remove tasks and groups manually, or delete the app from your device. Deleting the app removes all on-device data.
-- If you used iCloud sync, you can additionally delete iCloud-backed data via **iOS Settings → Apple ID → iCloud → Manage Storage → Monthly Todo**.
+- If you used iCloud sync, you can additionally delete iCloud-backed data via **iOS Settings → Apple ID → iCloud → Manage Storage → MonthlyTodo**.
 
 ### Still stuck?
 Please [open an Issue](https://github.com/lovelsh/monthlytodo-support/issues/new) with:
