@@ -30,8 +30,8 @@
 - **Premium** plan: **unlimited tasks per month**, plus JSON backup & restore.
 - Premium is a one-time purchase, not a subscription.
 
-#### Q. How do I import unfinished items from the previous month?
-- From the month view toolbar, tap **Import from previous month** (the down-arrow document icon). Unfinished items from the immediately previous month will be copied into the current month with their group and styling preserved.
+#### Q. How do I import items from the previous month?
+- From the month view toolbar, tap **Import from previous month** (the down-arrow document icon). Items registered in the immediately previous month will be copied into the current month with their group and styling preserved — regardless of completion status.
 
 #### Q. Can I sync between iPhone and iPad?
 - Yes — the app uses Apple's iCloud (CloudKit Private Database). Make sure iCloud is signed in on both devices and that the MonthlyTodo app is enabled in **Settings → Apple ID → iCloud**.
@@ -77,8 +77,8 @@ Please [open an Issue](https://github.com/lovelsh/monthlytodo-support/issues/new
 - **프리미엄**: **할일 등록 무제한** + JSON 백업/복원.
 - 프리미엄은 1회 결제이며 구독이 아닙니다.
 
-#### Q. 전월 미완료 항목을 한번에 가져오는 방법은요?
-- 월별 화면의 툴바에서 **전월 가져오기** 버튼(아래 화살표 + 문서 아이콘)을 누르면 직전 달의 미완료 항목이 그룹·서식 그대로 이번 달로 복사됩니다.
+#### Q. 전월 등록내역을 한번에 가져오는 방법은요?
+- 월별 화면의 툴바에서 **전월 가져오기** 버튼(아래 화살표 + 문서 아이콘)을 누르면 직전 달에 등록한 항목이 그룹·서식 그대로 이번 달로 복사됩니다. 완료 여부와 무관하게 가져옵니다.
 
 #### Q. 아이폰과 아이패드를 동기화할 수 있나요?
 - 가능합니다. 본 앱은 Apple의 iCloud(CloudKit Private Database)를 사용합니다. 두 기기 모두 iCloud에 로그인되어 있고, **설정 → Apple ID → iCloud**에서 월간일정 앱이 켜져 있어야 합니다.
